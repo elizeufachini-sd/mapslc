@@ -1,2 +1,195 @@
-{"type": "Topology", "objects":{"collection":{"type": "GeometryCollection","geometries":[{"type":"Point","coordinates":[-12.9855693,-38.4620107],"id":5420001,"id2":"5420001","properties":{"CEP":"05420001"}},{"type":"Point","coordinates":[-15.7900044,-47.8541583],"id":50,"id2":"50", "properties":{"CEP":"05420001"}},{"type":"Point", "coordinates":[-16.6629825,-49.2381247],"id":50, "id2":"50", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-19.8952931,-44.0270205],"id":58, "id2":"58", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-21.7032496,-43.4277548],"id":68, "id2":"68", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.1826697,-46.9225638],"id":95, "id2":"95", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.5166145,-46.4461298],"id":75, "id2":"75", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.5328458,-46.5261298],"id":102,"id2":"102","properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.5511244,-46.6491677],"id":46, "id2":"46", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.5624471,-46.6061643],"id":99, "id2":"99", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.5641918,-46.7008973],"id":45, "id2":"45", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.5871401,-46.6794528],"id":101, "id2":"101", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.6142002,-46.6841172],"id":94, "id2":"94", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-23.9334814,-46.3312399],"id":71, "id2":"71", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-25.4305274,-49.2876982],"id":49, "id2":"49", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-26.8657487,-49.0748574],"id":98, "id2":"98", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-3.7245468,-38.5092958],"id":60, "id2":"60", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-30.0106074,-51.148373],"id":90, "id2":"90", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-30.0316616,-51.2124993],"id":92, "id2":"92", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-30.0330041,-51.2264713],"id":91, "id2":"91", "properties":{"CEP":""}},{"type":"Point", "coordinates":[-30.0364712,-51.2069541],"id":89, "id2":"89", "properties":{"CEP":""}}]}},"arcs":[],
-"bbbox":[-30.0364712,-51.2069541, -3.7245468,-38.5092958]}
+{
+    "type": "Topology",
+    "objects": {
+        "collection": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "id": 5420001,
+                    "coordinates": [
+                        6480,
+                        9999
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 50,
+                    "coordinates": [
+                        5414,
+                        2642
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 50,
+                    "coordinates": [
+                        5082,
+                        1558
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 58,
+                    "coordinates": [
+                        3854,
+                        5640
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 68,
+                    "coordinates": [
+                        3167,
+                        6109
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 95,
+                    "coordinates": [
+                        2605,
+                        3371
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 75,
+                    "coordinates": [
+                        2478,
+                        3745
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 102,
+                    "coordinates": [
+                        2471,
+                        3682
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 46,
+                    "coordinates": [
+                        2465,
+                        3586
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 99,
+                    "coordinates": [
+                        2460,
+                        3619
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 45,
+                    "coordinates": [
+                        2460,
+                        3545
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 101,
+                    "coordinates": [
+                        2451,
+                        3562
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 94,
+                    "coordinates": [
+                        2441,
+                        3558
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 71,
+                    "coordinates": [
+                        2319,
+                        3835
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 49,
+                    "coordinates": [
+                        1750,
+                        1519
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 98,
+                    "coordinates": [
+                        1205,
+                        1685
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 60,
+                    "coordinates": [
+                        9999,
+                        9962
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 90,
+                    "coordinates": [
+                        10,
+                        61
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 92,
+                    "coordinates": [
+                        2,
+                        11
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 91,
+                    "coordinates": [
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": 89,
+                    "coordinates": [
+                        0,
+                        15
+                    ]
+                }
+            ]
+        }
+    },
+    "arcs": [],
+    "bbox": [
+        -30.0364712,
+        -51.2264713,
+        -3.7245468,
+        -38.4620107
+    ],
+    "transform": {
+        "scale": [
+            0.0026314555855585565,
+            0.0012765737173717371
+        ],
+        "translate": [
+            -30.0364712,
+            -51.2264713
+        ]
+    }
+}
